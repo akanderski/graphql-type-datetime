@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/waitandseeagency/graphql-type-datetime.git"
+    "url": "git+https://github.com/akanderski/graphql-type-datetime.git"
   },
   "keywords": [
     "graphql",
@@ -23,9 +23,9 @@
   "author": "Johann Pinson",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/waitandseeagency/graphql-type-datetime/issues"
+    "url": "https://github.com/akanderski/graphql-type-datetime/issues"
   },
-  "homepage": "https://github.com/waitandseeagency/graphql-type-datetime#readme",
+  "homepage": "https://github.com/akanderski/graphql-type-datetime#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-eslint": "^8.2.3",
@@ -41,7 +41,7 @@
     "moment": "^2.22.2"
   },
   "peerDependencies": {
-    "graphql": "^0.13.2"
+    "graphql": "^0.14.7"
   },
   "config": {
     "commitizen": {
