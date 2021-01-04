@@ -41,7 +41,7 @@
     "moment": "^2.22.2"
   },
   "peerDependencies": {
-    "graphql": "^0.14.7"
+    "graphql": "^14.7.0"
   },
   "config": {
     "commitizen": {
